@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python and Data Science
+title: Interested in Python? Where to Start?
 published: true
 ---
 
