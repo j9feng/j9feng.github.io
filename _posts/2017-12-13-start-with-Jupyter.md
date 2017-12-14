@@ -1,6 +1,9 @@
 ---
-published: false
+layout: post
+title: Python and Data Science
+published: true
 ---
+
 ## Inerested in Python? where to start?
 
 Traditionally, you start with installing Python and fire up a Python shell('>>>' is the Python prompt) and type *print("hello world")*.
