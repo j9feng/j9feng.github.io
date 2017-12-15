@@ -4,7 +4,7 @@ title: Interested in Python? Where to Start?
 published: true
 ---
 
-## Jupyter Notebook is better starting point than the Python Shell!
+## Jupyter Notebook is a better starting point than the Python Shell!
 
 Traditionally, you start with installing Python and fire up a Python shell('>>>' is the Python prompt) and type *print("hello world")*.
 
