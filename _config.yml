@@ -15,7 +15,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Flags below are optional
 #
 #added by jfeng
-theme: jekyll-theme-hacker
+theme: jekyll-theme-dinky
 #end by jfeng
 # Includes an icon in the footer for each username you enter
 footer-links:
