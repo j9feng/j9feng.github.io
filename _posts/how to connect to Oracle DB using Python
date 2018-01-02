@@ -11,3 +11,13 @@ In Python Shell:
 >>> import cx_Oracle
 If there is no errors, you have the driver installed successfully.
 
+4)Config ldap.ora for ODBC Data Source:
+edit ldap.ora (C:\Oracle\product\11.2.0\client_2\network\admin\ldap.ora)
+DIRECTORY_SERVERS=oid.inf.mycompany.com:3060
+DIRECTORY_SERVER_TYPE=oid
+DEFAULT_ADMIN_CONTEXT="dc=ute,dc=mycompany,dc=com"
+
+4)Config ODBC Data Souce:
+Start ->Microsoft ODBC Admin -> System DSN ->Add
+next window:
+leave TNS Service Name blank(because we config'ed ldap.ora)
