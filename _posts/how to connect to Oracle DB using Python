@@ -1,0 +1,13 @@
+
+
+### How to Make a connection to Oracle DB using Python:
+
+1) Assume you have Python 3.6 installed
+2) Install cx_Oracle driver:
+python -m pip install cx_Oracle --upgrade
+
+3)Test your installation:
+In Python Shell:
+>>> import cx_Oracle
+If there is no errors, you have the driver installed successfully.
+
